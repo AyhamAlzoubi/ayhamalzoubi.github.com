@@ -4,7 +4,7 @@
   <title><![CDATA[Ayham Alzoubi]]></title>
   <link href="http://AyhamAlzoubi.github.com/atom.xml" rel="self"/>
   <link href="http://AyhamAlzoubi.github.com/"/>
-  <updated>2012-10-31T01:41:58+04:00</updated>
+  <updated>2012-10-31T02:53:25+04:00</updated>
   <id>http://AyhamAlzoubi.github.com/</id>
   <author>
     <name><![CDATA[Ayham Alzoubi]]></name>
@@ -18,7 +18,7 @@
     <link href="http://AyhamAlzoubi.github.com/blog/2012/10/31/test/"/>
     <updated>2012-10-31T01:01:00+04:00</updated>
     <id>http://AyhamAlzoubi.github.com/blog/2012/10/31/test</id>
-    <content type="html"><![CDATA[<p>load &#8216;_layouts/post.html&#8217;</p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
