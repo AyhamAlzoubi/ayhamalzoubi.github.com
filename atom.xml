@@ -4,7 +4,7 @@
   <title><![CDATA[Ayham Alzoubi]]></title>
   <link href="http://AyhamAlzoubi.github.com/atom.xml" rel="self"/>
   <link href="http://AyhamAlzoubi.github.com/"/>
-  <updated>2012-09-30T23:18:50+04:00</updated>
+  <updated>2012-10-30T22:56:03+04:00</updated>
   <id>http://AyhamAlzoubi.github.com/</id>
   <author>
     <name><![CDATA[Ayham Alzoubi]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[about]]></title>
-    <link href="http://AyhamAlzoubi.github.com/blog/2012/09/23/example/"/>
-    <updated>2012-09-23T14:19:00+04:00</updated>
-    <id>http://AyhamAlzoubi.github.com/blog/2012/09/23/example</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Adding Facebook App to this Blog]]></title>
+    <link href="http://AyhamAlzoubi.github.com/blog/2012/10/30/adding-facebook-application/"/>
+    <updated>2012-10-30T22:55:00+04:00</updated>
+    <id>http://AyhamAlzoubi.github.com/blog/2012/10/30/adding-facebook-application</id>
+    <content type="html"><![CDATA[<p>Now i am trying to add facebook application to this blog
+to enable visitors to add comments to my blog
+after i finish i will add steps to do that.</p>
 ]]></content>
   </entry>
   
