@@ -35,7 +35,15 @@
 </head>
 
 <body   >
-  <header role="banner"><hgroup>
+  <header role="banner"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=515684051776234";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<hgroup>
   <h1><a href="/">Ayham Alzoubi</a></h1>
   
     <h2>Software Engineer.</h2>
@@ -59,6 +67,7 @@
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
   <li><a href="/blog/about">About me</a></li>
+  <li><a href="/blog/wall">My Wall</a></li>
 </ul>
 
 </nav>
