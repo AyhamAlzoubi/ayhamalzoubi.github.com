@@ -4,7 +4,7 @@
   <title><![CDATA[Ayham Alzoubi]]></title>
   <link href="http://AyhamAlzoubi.github.com/atom.xml" rel="self"/>
   <link href="http://AyhamAlzoubi.github.com/"/>
-  <updated>2012-10-30T22:56:03+04:00</updated>
+  <updated>2012-10-31T01:30:56+04:00</updated>
   <id>http://AyhamAlzoubi.github.com/</id>
   <author>
     <name><![CDATA[Ayham Alzoubi]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://AyhamAlzoubi.github.com/blog/2012/10/31/test/"/>
+    <updated>2012-10-31T01:01:00+04:00</updated>
+    <id>http://AyhamAlzoubi.github.com/blog/2012/10/31/test</id>
+    <content type="html"><![CDATA[<p>load &#8216;_layouts/post.html&#8217;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Adding Facebook App to this Blog]]></title>
