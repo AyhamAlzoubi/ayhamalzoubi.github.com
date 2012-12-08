@@ -4,7 +4,7 @@
   <title><![CDATA[Ayham Alzoubi]]></title>
   <link href="http://AyhamAlzoubi.github.com/atom.xml" rel="self"/>
   <link href="http://AyhamAlzoubi.github.com/"/>
-  <updated>2012-10-31T02:53:25+04:00</updated>
+  <updated>2012-12-08T19:34:47+04:00</updated>
   <id>http://AyhamAlzoubi.github.com/</id>
   <author>
     <name><![CDATA[Ayham Alzoubi]]></name>
@@ -14,22 +14,68 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://AyhamAlzoubi.github.com/blog/2012/10/31/test/"/>
-    <updated>2012-10-31T01:01:00+04:00</updated>
-    <id>http://AyhamAlzoubi.github.com/blog/2012/10/31/test</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[One Year In UAE]]></title>
+    <link href="http://AyhamAlzoubi.github.com/blog/2012/12/08/one-year-in-uae/"/>
+    <updated>2012-12-08T18:27:00+04:00</updated>
+    <id>http://AyhamAlzoubi.github.com/blog/2012/12/08/one-year-in-uae</id>
+    <content type="html"><![CDATA[<p>I came to UAE in 8-12-2011 to visit some relatives and search for suitable job.</p>
+
+<p>It was very good experience to come to Dubai and stay in the fastest growing country in the world,
+and to see life organization in this country.</p>
+
+<p>After this year of life in Dubai there is a question many people ask me about:</p>
+
+<h3>Is UAE the best country to live in?</h3>
+
+<p>The answer to this question not easy, but from my point of view I can put several negative and positive points, i will start with the positive points:</p>
+
+<ul>
+<li><p>Dubai is miniature model about business all over the world.</p></li>
+<li><p>In Dubai you can see and work with people of all nationalities in the world.</p></li>
+<li><p>In Dubai you can live a good life and all your needs and hopes are available.</p></li>
+<li><p>In Dubai you can get good work experience (depends on your position and the company you are working in).</p></li>
+<li><p>You can have good friends from other your country.</p></li>
+</ul>
+
+
+<p>And other good points&#8230;</p>
+
+<h6>In the other side, i will reserve some of negative points and mention some:</h6>
+
+<ul>
+<li><p>In Dubai you live away from home, your family and old friends.</p></li>
+<li><p>You cann&#8217;t do any plan for your future in this country because you will leave someday.</p></li>
+<li><p>You may suffer from some of the political problems between your country UAE.</p></li>
+<li><p>Its very hot in UAE, and the weather is very difficult.</p></li>
+</ul>
+
+
+<p>And other points i cann&#8217;t say for now &#8230;</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Adding Facebook App to this Blog]]></title>
+    <title type="html"><![CDATA[Facebook In This Blog]]></title>
     <link href="http://AyhamAlzoubi.github.com/blog/2012/10/30/adding-facebook-application/"/>
     <updated>2012-10-30T22:55:00+04:00</updated>
     <id>http://AyhamAlzoubi.github.com/blog/2012/10/30/adding-facebook-application</id>
-    <content type="html"><![CDATA[<p>Now i am trying to add facebook application to this blog
-to enable visitors to add comments to my blog
-after i finish i will add steps to do that.</p>
+    <content type="html"><![CDATA[<p>Now you can use this blog to like my facebook page and you can post on my facebook wall.
+Adding new facebook application to your blog needs some steps from you to do:
+Create facebook application <a href="https://developers.facebook.com/apps" title="Facebook App">fb-App</a> and get application ID.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
 ]]></content>
   </entry>
   
